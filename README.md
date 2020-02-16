@@ -1,3 +1,13 @@
+
+# WEBWORKER-REACT
+
+A webworker wrapper example using React and [workerize-loader]([https://www.npmjs.com/package/workerize-loader](https://www.npmjs.com/package/workerize-loader)).
+
+## Points of Interest
+> - A custom made "redux-like" store using useContext and useReducer hooks.
+>  - The actual wrapper.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
